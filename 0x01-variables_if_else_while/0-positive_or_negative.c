@@ -8,7 +8,7 @@
 /*
  *main: bettty style
  *
- *description: main
+ * description: main
  *
  *Return: always 0 (Success)
 */
