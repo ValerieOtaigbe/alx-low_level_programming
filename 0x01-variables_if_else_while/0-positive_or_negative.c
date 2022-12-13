@@ -6,11 +6,11 @@
 
 
 /*
- *main: bettty style.
+ *main: bettty style
  *
- * description: positive or negative
+ *description: main
  *
- * Return_ always 0 (Success)
+ *Return_ always 0 (Success)
 */
 
 int main(void)
