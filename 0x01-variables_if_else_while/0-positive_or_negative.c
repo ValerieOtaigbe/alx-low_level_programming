@@ -6,9 +6,9 @@
 
 
 /**
- * main: bettty style
+ * main: initializing betty style.
  *
- * description: main
+ * description: print if number is positive or negative 
  *
  * Return: always 0 (Success)
  */
