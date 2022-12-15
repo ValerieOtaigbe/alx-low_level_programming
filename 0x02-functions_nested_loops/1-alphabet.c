@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main
+ * main: initializing betty.
  *
- * print_alphabet - a function that prints the alphabets in lowercase
+ * description: print_alphabet - a function that prints the alphabets in lowercase
  *
  * Return: 0
  */
