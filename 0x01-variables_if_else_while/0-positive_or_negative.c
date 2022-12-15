@@ -11,7 +11,7 @@
  * description: main
  *
  *Return: always 0 (Success)
-*/
+ */
 
 int main(void)
 {
