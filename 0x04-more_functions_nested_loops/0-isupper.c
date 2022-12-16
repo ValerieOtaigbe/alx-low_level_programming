@@ -5,10 +5,10 @@
  *
  * Return: always 0.
  */
-int _isupper (void)
+int _isupper ()
 {
-	int c;
-	if ((c >= 65) && (c <= 90))
+	char c;
+	if (c >= 'A' && c <= 'Z')
 
 		return (1);
 	else
