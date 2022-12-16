@@ -5,11 +5,10 @@
  *
  * Return: always 0.
  */
-int _isupper(void)
+int _isupper (void)
 {
 	int c;
-
-	if (c >= 65 && c <= 90)
+	if ((c >= 65) && (c <= 90))
 
 		return (1);
 	else
